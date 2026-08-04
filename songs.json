@@ -1,0 +1,90 @@
+{
+  "title": "My Music Library",
+  "description": "Edit this document to add or remove songs.",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+      "file": "Believer%20-%20Evolve%20(128%20kbps).mp3"
+    },
+    {
+      "id": 2,
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "cover": "https://framekro.com/cdn/shop/files/237.jpg?v=1746515405",
+      "file": "Faded%20-%20Faded%20(128%20kbps).mp3"
+    },
+    {
+      "id": 3,
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuc60ex2PBsbCMnWa90Hkm_tBEA7ZGPlp3X8V9-VagQ&s=10",
+      "file": "Shape%20of%20You%20-%20Shape%20of%20You%20(128%20kbps).mp3"
+    },
+    {
+      "id": 4,
+      "title": "Sheesha",
+      "artist": "Mitta ror",
+      "cover": "https://c.saavncdn.com/872/Sheesha-Punjabi-2022-20240321082644-500x500.jpg",
+      "file": "Sheesha%20(Aakhya%20Mai%20Aakh%20Ghali%20Jo%20Bairan)%20-%20Sheesha%20(Aakhya%20Mai%20Aakh%20Ghali%20Jo%20Bairan)%20(128%20kbps).mp3"
+    },
+    {
+      "id": 5,
+      "title": "Tension",
+      "artist": "Dhanda niyoliwala",
+      "cover": "https://m.media-amazon.com/images/I/41Kujd0fdDL._UXNaN_FMjpg_QL85_.jpg",
+      "file": "Tension%20-%20Tension%20(128%20kbps).mp3"
+    },
+    {
+      "id": 6,
+      "title": "WE ROLLIN",
+      "artist": "SHUBH",
+      "cover": "https://c.saavncdn.com/495/WE-ROLLIN-Punjabi-2021-20220621214629-500x500.jpg",
+      "file": "WE%20ROLLIN%20-%20WE%20ROLLIN%20(128%20kbps).mp3"
+    },
+    {
+      "id": 7,
+      "title": "Ez-Ez",
+      "artist": "Shashwat sachdeva & diljeet dosanjh",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMJo_-e6xEwKRay8HZaXpa--rQUyQl2N88qIsNMKRgX3YR4146zcTSuGY&s=10",
+      "file": "Ez-Ez%20-%20Dhurandhar%20(128%20kbps).mp3"
+    },
+    {
+      "id": 8,
+      "title": "Khat",
+      "artist": "Navjot ahuja",
+      "cover": "https://ganadilse.in/wp-content/uploads/2026/03/Khat-song-lyrics.jpeg",
+      "file": "Khat%20-%20Khat%20(128%20kbps).mp3"
+    },
+    {
+      "id": 9,
+      "title": "Gehra Hua",
+      "artist": "Arjit singh & Armaan khan",
+      "cover": "https://c.saavncdn.com/450/Gehra-Hua-From-Dhurandhar-Hindi-2025-20251205154217-500x500.jpg",
+      "file": "Gehra%20Hua%20-%20Dhurandhar%20(128%20kbps).mp3"
+    },
+    {
+      "id": 10,
+      "title": "Bairan",
+      "artist": "Banjaree & Simran kaur",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cdce9a38222807fa703b4396",
+      "file": "Bairan%20-%20Bairan%20(128%20kbps).mp3"
+    },
+    {
+      "id": 11,
+      "title": "Millionaire",
+      "artist": "Yo Yo Honey Singh",
+      "cover": "https://c.saavncdn.com/173/GLORY-Hindi-2024-20250117161048-500x500.jpg",
+      "file": "Millionaire-Mp3-Song-by-Yo-Yo-Honey-Singh%28PagalWorldi.com.co%29.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Saari duniya jalaa denge",
+      "artist": "B praak",
+      "cover": "https://c.saavncdn.com/352/Saari-Duniya-Jalaa-Denge-Extended-Film-Version-From-ANIMAL-Hindi-2023-20231222191004-500x500.jpg",
+      "file": "Saari-Duniya-Jalaa-Denge-Mp3-Song-by-B-Praak%28PagalWorldi.com.co%29.mp3"
+    }
+  ]
+}
