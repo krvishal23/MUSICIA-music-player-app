@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>MUSICIA</title>
+
+    <link rel="stylesheet"
+          href="style.css">
+
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+          rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+<!---------------- Sidebar ---------------->
+
+<div class="sidebar">
+
+    <div class="logo">
+        <h2>MUSICIA</h2>
+    </div>
+
+    <ul>
+
+        <li>
+            🏠 Home
+        </li>
+
+        <li>
+            🔎 Search
+        </li>
+
+        <li>
+            📚 Library
+        </li>
+
+    </ul>
+
+</div>
+
+<!---------------- Main ---------------->
+
+<div class="main">
+
+<header>
+
+    <input type="text"
+           id="search"
+           placeholder="Search songs...">
+
+</header>
+
+<h2>Trending Songs</h2>
+
+<div id="songList"
+     class="song-list">
+
+<!-- Songs loaded using JS -->
+
+</div>
+
+</div>
+
+</div>
+
+<!---------------- Player ---------------->
+
+<footer class="player">
+
+<div class="song-info">
+
+    <img id="cover"
+         src=""
+         alt="">
+
+    <div>
+
+        <h4 id="title">No Song Playing</h4>
+
+        <p id="artist"></p>
+
+    </div>
+
+</div>
+
+<div class="controls">
+
+<button id="prev">
+
+⏮
+
+</button>
+
+<button id="play">
+
+▶
+
+</button>
+
+<button id="next">
+
+⏭
+
+</button>
+
+</div>
+
+<div class="progress">
+
+<span id="currentTime">
+0:00
+</span>
+
+<input type="range"
+       id="progressBar"
+       value="0">
+
+<span id="duration">
+0:00
+</span>
+
+</div>
+
+<div class="volume">
+
+🔊
+
+<input type="range"
+       id="volume"
+       min="0"
+       max="1"
+       step="0.1"
+       value="1">
+
+</div>
+
+<audio id="audio"></audio>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
